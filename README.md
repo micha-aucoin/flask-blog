@@ -1,17 +1,17 @@
 # Flask Blog
 ### Installing Dependencies
-create a virtual environment:
+1. create a virtual environment:
     - `python -m venv venv`
-activate virtual environment:
+2. activate virtual environment:
     - windows
         - `venv\scripts\activate.bat`
     - linux/mac
         - `source venv/bin/activate`
-install all dependencies using requirements.txt file:
+3. install all dependencies using requirements.txt file:
     - `pip install -r requirements.txt`
 
 ### Environment Variables
-create the following env variables:
+- create the following env variables:
     - `SECRET_KEY` = protects from unauthorized access 
         - create the secret key value by running the following in the python interpreter:
         - `import secrets`
@@ -37,7 +37,7 @@ create the following env variables:
     
 
 ### Run the App
-open the project in the terminal and run the following:
+- open the project in the terminal and run the following:
     - `python run.py`
     - then [click_here](http://127.0.0.1:5000)
     - the app should be up and running
