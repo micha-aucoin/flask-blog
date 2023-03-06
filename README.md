@@ -3,10 +3,10 @@
 1. create a virtual environment:
     - `python -m venv venv`
 2. activate virtual environment:
-    windows
-    - `venv\scripts\activate.bat`
-    linux/mac
-    - `source venv/bin/activate`
+    - windows
+        - `venv\scripts\activate.bat`
+    - linux/mac
+        - `source venv/bin/activate`
 3. install all dependencies using requirements.txt file:
     - `pip install -r requirements.txt`
 
