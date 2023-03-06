@@ -42,5 +42,5 @@
     - then [click_here](http://127.0.0.1:5000)
     - the app should be up and running
 
-    
+- [detailed_tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)    
 
