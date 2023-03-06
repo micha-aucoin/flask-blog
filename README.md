@@ -1,4 +1,4 @@
-# Flask Blog Build
+# Flask Blog
 ### Installing Dependencies
 1. create a virtual environment:
     - `python -m venv venv`
