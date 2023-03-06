@@ -20,6 +20,7 @@
         - set the value to `sqlite:///site.db`
     - password reset functionality is configured to use a gmail server
     - `EMAIL_USER` = gmail user name
+    - `EMAIL_PASS` = gmail App Password
     
     #### Create & use App Passwords for Gmail Account
     1. Go to your Google Account.
@@ -33,7 +34,7 @@
     5. The App Password is the 16-character code in the yellow bar on your device.
     6. Tap Done.
 
-    - `EMAIL_PASS` = gmail App Password
+    
 
 ### Run the App
 - open the project in the terminal and run the following:
